@@ -191,18 +191,6 @@ To become an **Embedded Systems Engineer** by developing reliable firmware, work
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vasanthraj6069&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vasanthraj6069&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 📫 Reach Me
 
 📧 **Email:** [vasanthraj6069@gmail.com](mailto:vasanthraj6069@gmail.com)
