@@ -6,10 +6,10 @@
 
 ### 🎓 Electronics & Communication Engineering Graduate
 
-### 💻 Embedded Systems | Embedded C | ARM | STM32 | Linux
+### 💻 Embedded Systems | Embedded C/C++ | ARM7 | LPC2129 | CAN | Linux
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Embedded+Systems+Engineer+Aspirant;Embedded+C+Developer;ARM+%7C+STM32+%7C+8051;Hardware+Interfacing+Enthusiast;Linux+Learner;Always+Learning+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;Embedded+C%2FC%2B%2B+Developer;ARM7+%7C+LPC2129+%7C+8051;CAN+%7C+UART+%7C+I2C+%7C+SPI;Hardware+Interfacing+Enthusiast;Linux+Learner;Always+Learning+🚀"/>
 </p>
 
 <p align="center">
@@ -36,26 +36,28 @@
 
 # 🚀 About Me
 
-🎓 **B.E. in Electronics and Communication Engineering** from **PSNA College of Engineering and Technology, Dindigul**
+🎓 **B.E. in Electronics and Communication Engineering** from **PSNA College of Engineering and Technology, Dindigul** with a **CGPA of 7.5/10.0**.
 
-💻 Passionate about **Embedded Systems, Embedded C, and Microcontroller Programming**.
+💻 Passionate about **Embedded Systems, Embedded C/C++, firmware development, and microcontroller programming**.
 
-🔧 Hands-on experience with **hardware interfacing, embedded projects, and technical troubleshooting**.
+🔧 Interested in **hardware interfacing, communication protocols, embedded debugging, and real-time microcontroller-based systems**.
 
-🛠️ Experienced in **calibration, maintenance, servicing, hardware/software troubleshooting, and application support** for surveying instruments.
+⚙️ Hands-on knowledge of **ARM7 LPC2129, 8051, GPIO, sensors, interrupts, RTC, LCD, servo motors, and embedded communication protocols**.
 
-🌱 **Currently Pursuing**
+🌱 Currently developing my skills in:
 
-* Embedded Systems
-* Embedded C
-* Microcontroller Programming
-* Hardware Interfacing
+* Embedded C/C++
+* ARM7 LPC2129
+* Firmware Development
+* CAN Protocol
+* UART / I2C / SPI
 * Linux
-* Embedded Debugging
+* RTOS Basics
+* Hardware Debugging
 
 🎯 **Career Goal**
 
-To become an **Embedded Systems Engineer** by developing reliable firmware, working with microcontrollers, and building real-world embedded solutions.
+To build a career as an **Embedded Systems Engineer**, developing reliable firmware, working with microcontrollers, communication protocols, and real-world hardware systems.
 
 ---
 
@@ -64,27 +66,38 @@ To become an **Embedded Systems Engineer** by developing reliable firmware, work
 ## 💻 Programming Languages
 
 * C
+* C++
 * Embedded C
-* SQL
 
 ## ⚙️ Microcontrollers
 
-* ARM
-* STM32
-* 8051
 * ARM7 LPC2129
+* 8051
 
-## 🔧 Hardware
+## 🔌 Communication Protocols
 
-* Sensor Interfacing
-* Hardware Debugging
+* UART
+* I2C
+* SPI
+* CAN
+* TCP/IP
+
+## 🔧 Embedded Concepts
+
 * GPIO
+* Sensor Interfacing
+* Firmware Development
+* Interrupt Handling
+* Hardware Debugging
+* RTOS Basics
+* RTC Interfacing
 * LCD Interfacing
-* 7-Segment Display
+* Servo Motor Control
 
-## 🐧 Operating Systems
+## 🖥️ Operating Systems
 
 * Linux
+* Windows
 
 ## 🧰 Tools & Platforms
 
@@ -92,16 +105,30 @@ To become an **Embedded Systems Engineer** by developing reliable firmware, work
 * Proteus
 * Visual Studio Code
 * GitHub
-* Linux
 
 ---
 
 # 📌 Featured Projects
 
-| 🚀 Project                                                 | 📖 Description                                                                                             |
-| ---------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| 🤖 **Smart Robot Using LoRa Network**                      | Surveillance robot with real-time monitoring, intruder detection and SMS alerting using LoRa communication |
-| 🎲 **DICE MASTER – Two Player Digital Dice Battle System** | ARM7 LPC2129 based digital dice game using Embedded C, LCD and 7-segment display                           |
+| 🚀 Project                                                       | 📖 Description                                                                                               |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 🅿️ **Smart Parking Slot Monitoring & Vehicle Detection System** | CAN-based distributed parking management system using LPC2129 ARM7 with IR sensors, RTC, LCD and servo motor |
+| 🤖 **Smart Robot Using LoRa Network**                            | Surveillance robot with real-time video monitoring, intruder detection, remote control and SMS alerting      |
+| 🎲 **DICE MASTER – Two Player Digital Dice Battle System**       | ARM7 LPC2129 based digital dice game using Embedded C, LCD and 7-segment display                             |
+
+---
+
+# 🅿️ Smart Parking Slot Monitoring and Vehicle Detection System
+
+**Technologies:** LPC2129 ARM7 • CAN • IR Sensors • DS1307 RTC • LCD • Servo Motor
+
+* Developed a **CAN-based distributed parking management system** using LPC2129 ARM7.
+* Implemented **real-time parking slot monitoring** and vehicle detection.
+* Used **IR sensors** for vehicle/slot detection.
+* Implemented **automatic gate control** using a servo motor.
+* Integrated **DS1307 RTC** for entry and exit time logging.
+* Designed communication between multiple nodes using the **CAN protocol**.
+* Enabled reliable data exchange between distributed embedded nodes.
 
 ---
 
@@ -109,11 +136,12 @@ To become an **Embedded Systems Engineer** by developing reliable firmware, work
 
 **Technologies:** Metal Sensor • PIR Sensor • LoRa
 
-* Designed and implemented a surveillance robot.
-* Enabled real-time video monitoring.
-* Implemented intruder detection.
-* Implemented SMS alerting using LoRa communication.
+* Designed and implemented a **surveillance robot**.
+* Enabled **real-time video monitoring**.
+* Implemented **intruder detection** using sensors.
+* Implemented **SMS alerting using LoRa communication**.
 * Enabled remote control and live data transmission.
+* Integrated sensors for object detection and real-time monitoring.
 * Designed for early threat identification in critical environments.
 
 ---
@@ -122,13 +150,14 @@ To become an **Embedded Systems Engineer** by developing reliable firmware, work
 
 **Technologies:** Embedded C • Keil uVision • ARM7 LPC2129 • 16×2 LCD • 7-Segment Display
 
-* Developed a two-player digital dice game using **ARM7 LPC2129**.
-* Interfaced **16×2 LCD** and **7-segment display**.
+* Developed a **two-player digital dice game** using ARM7 LPC2129.
+* Interfaced a **16×2 LCD** and **7-segment display**.
 * Implemented GPIO-based button inputs.
-* Developed turn management.
+* Developed turn management and game logic.
 * Implemented random dice generation.
 * Implemented score calculation.
 * Added automatic winner declaration.
+* Designed embedded firmware for game logic execution and peripheral interfacing.
 
 ---
 
@@ -140,79 +169,45 @@ To become an **Embedded Systems Engineer** by developing reliable firmware, work
 
 **Aug 2025 – Mar 2026**
 
-* Worked with high-end surveying instruments.
-* Gained expertise in **DGPS, Total Stations, Auto Levels, and Scanners**.
-* Performed calibration, maintenance, and servicing.
+* Worked with professional **surveying instruments**.
+* Handled **DGPS, Total Stations, Auto Levels, and Scanners**.
+* Performed calibration, maintenance, and servicing of equipment.
 * Diagnosed hardware and software issues.
 * Provided technical troubleshooting and application support.
-* Helped minimize client downtime through rapid issue resolution.
+* Assisted customers through equipment demonstrations and installation support.
+* Provided technical guidance for surveying solutions.
+* Helped minimize client downtime through effective issue resolution.
 
 ---
 
-# 📜 Certification
+# 📚 Advanced Embedded Systems Training
 
-### 🏅 Embedded Systems Certification
+### 🏅 Vector India Private Limited
 
-**Vector India, Chennai**
+**Apr 2026 – Sept 2026**
 
-📅 **Apr 2026 – Sept 2026**
+### Topics Covered
 
-**Status: Pursuing**
+* ARM7 LPC2129
+* Embedded C/C++
+* Firmware Development
+* UART
+* I2C
+* SPI
+* CAN Protocol
+* Linux OS Concepts
+* IPC Mechanisms
+
+Hands-on training focused on **embedded programming, firmware development, microcontroller programming, communication protocols, and Linux concepts**.
 
 ---
 
 # 🌱 Currently Learning
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Embedded+Systems;Embedded+C;Microcontroller+Programming;Hardware+Interfacing;Linux;Hardware+Debugging" alt="Currently Learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=750&lines=Embedded+C%2FC%2B%2B;ARM7+LPC2129;Firmware+Development;CAN+Protocol;UART+%7C+I2C+%7C+SPI;Linux;RTOS+Basics;Hardware+Debugging" alt="Currently Learning"/>
 </p>
 
 ---
 
-# 🎓 Education
-
-### Bachelor of Engineering – Electronics & Communication Engineering
-
-**PSNA College of Engineering and Technology, Dindigul**
-
-📅 **2021 – 2025**
-
-**CGPA: 7.5 / 10.0**
-
-### Higher Secondary Certificate
-
-**Maharishi Vidya Mandir Matriculation Higher Secondary School**
-
-**Karaikudi, Tamil Nadu**
-
-📅 **2020 – 2021**
-
-**Percentage: 75.4%**
-
----
-
-# 📫 Reach Me
-
-📧 **Email:** [vasanthraj6069@gmail.com](mailto:vasanthraj6069@gmail.com)
-
-💼 **LinkedIn:** [Vasanth Kumar R](https://www.linkedin.com/in/vasanth-kumar-r-3a1b66269/)
-
-🐙 **GitHub:** [vasanthraj6069](https://github.com/vasanthraj6069)
-
----
-
-# 💬 Quote
-
-> **"Learn. Build. Debug. Create reliable embedded solutions."**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my GitHub Profile!
-
-If you like my projects, don't forget to ⭐ my repositories.
-
-🚀 **Happy Coding!**
-
-</div>
+# 🎓 E
