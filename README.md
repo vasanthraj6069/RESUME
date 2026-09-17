@@ -210,4 +210,66 @@ Hands-on training focused on **embedded programming, firmware development, micro
 
 ---
 
-# 🎓 E
+# 🎓 Education
+
+### Bachelor of Engineering – Electronics & Communication Engineering
+
+**PSNA College of Engineering and Technology, Dindigul**
+
+📅 **2021 – 2025**
+
+**CGPA: 7.5 / 10.0**
+
+### Higher Secondary Certificate – HSC
+
+**Maharishi Vidya Mandir Matric Higher Secondary School**
+
+**Karaikudi, Tamil Nadu**
+
+📅 **2020 – 2021**
+
+---
+
+# 📊 Embedded Systems Focus
+
+```text
+Embedded C/C++       ████████████████████
+ARM7 LPC2129         ███████████████████
+Microcontrollers     ███████████████████
+CAN Protocol         █████████████████
+Hardware Interfacing █████████████████
+Firmware Development █████████████████
+UART / I2C / SPI     ████████████████
+Linux                ██████████████
+RTOS Basics          ███████████
+```
+
+---
+
+# 📫 Reach Me
+
+📧 **Email:** [vasanthraj6069@gmail.com](mailto:vasanthraj6069@gmail.com)
+
+💼 **LinkedIn:** [Vasanth Kumar R](https://www.linkedin.com/in/vasanth-kumar-r-3a1b66269/)
+
+🐙 **GitHub:** [vasanthraj6069](https://github.com/vasanthraj6069)
+
+📍 **Chennai, India**
+
+---
+
+# 💬 Quote
+
+> **"Learn. Build. Debug. Create reliable embedded solutions."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my GitHub Profile!
+
+If you like my projects, don't forget to ⭐ my repositories.
+
+🚀 **Happy Coding!**
+
+</div>
